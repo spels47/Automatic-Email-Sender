@@ -1,0 +1,16 @@
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\Automatic Email Sender.exe
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\Automatic Email Sender.deps.json
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\Automatic Email Sender.runtimeconfig.json
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\Automatic Email Sender.runtimeconfig.dev.json
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\Automatic Email Sender.dll
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\ref\Automatic Email Sender.dll
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\bin\Debug\net5.0\Automatic Email Sender.pdb
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.csprojAssemblyReference.cache
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.AssemblyInfoInputs.cache
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.AssemblyInfo.cs
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.csproj.CoreCompileInputs.cache
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.dll
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\ref\Automatic Email Sender.dll
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.pdb
+C:\Users\patrick.johnsen\Documents\private project\Automatic Email Sender\obj\Debug\net5.0\Automatic Email Sender.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Automatic Email Sender/1.0.0": {
+        "runtime": {
+          "Automatic Email Sender.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automatic Email Sender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
