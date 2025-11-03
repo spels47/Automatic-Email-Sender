@@ -9,8 +9,21 @@ namespace Automatic_Email_Sender
     {
         static void Main()
         {
-            var email = "angry.bring.customer@gmail.com";
-            var password = "Unit1234";
+            Console.Write("Email: ");
+            var email = Console.ReadLine();
+
+            Console.Write("Password: ");
+            var password = Console.ReadLine();
+
+            Console.Write("Subject: ");
+            var subject = Console.ReadLine();
+
+            Console.Write("Body: ");
+            var body = Console.ReadLine();
+
+            Console.Write("Recipient: ");
+            var recipient = Console.ReadLine();
+
             var smtpClient = new SmtpClient("smtp.gmail.com")
             {
                 Port = 587,
@@ -20,15 +33,11 @@ namespace Automatic_Email_Sender
             var mail = new MailMessage
             {
                 From = new MailAddress(email),
-                Subject = "oppdrag ikke fullført",
-                Body = @"hei, jeg bestilte en levering gjennom komplett, den leveringen skulle være med en hjemlevering med innbæring<br>
-                        og henting av e-avfall (i dette tilfellet en oppvaskmaskin) og at de skulle ta med seg emballasjen fra leveringen,<br>
-                        da de ankom så leverte de den nye oppvaskmaskinen, men tok ikke med seg embalasjen fra den nye maskinen og tok heller ikke med seg den gamle maskinen.<br>
-                        <b>jeg ønsker å motta tjenesten jeg har betalt for.</b><br><br>
-                        <b>Sendingsnummer:</b> <h5>70702051086799528</h5>",
+                Subject = subject,
+                Body = body,
                 IsBodyHtml = true
             };
-            mail.To.Add("homedelivery.norge@bring.com");
+            mail.To.Add(recipient);
             var startTime = 3600000;
             var minTime = 60000;
             var currentTime = startTime;
